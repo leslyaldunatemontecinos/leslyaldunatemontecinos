@@ -36,8 +36,8 @@ Aplicación web robusta desarrollada con **Spring Boot** e **Hibernate** que imp
 
 ### 📫 Cómo contactarme
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/
-* 📧 **Correo Electrónico:** lesly.aldunate@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/
+* 📧 Correo Electrónico: lesly.aldunate@gmail.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true" alt="Estadísticas de GitHub de Lesly" />
