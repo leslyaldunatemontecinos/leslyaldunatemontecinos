@@ -1,3 +1,4 @@
+Markdown
 # ¡Hola! Soy Lesly Aldunate 👋
 
 **Ingeniera Civil & Desarrolladora Backend en formación** 🚀
@@ -10,7 +11,9 @@ Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería c
 
 | Backend & Datos | Frontend | Herramientas & DevOps |
 | :--- | :--- | :--- |
-| ☕ Java (SE/EE) <br> 🍃 Spring Boot <br> 🗄️ MySQL / MariaDB | 🌐 HTML5 / CSS3 <br> 🎨 Bootstrap <br> 📜 JSP & JSTL | 💻 STS / VS Code <br> 🐙 Git & GitHub <br> 🐋 Docker |
+| ☕ Java (SE/EE) | 🌐 HTML5 / CSS3 | 💻 STS / VS Code |
+| 🍃 Spring Boot | 🎨 Bootstrap | 🐙 Git & GitHub |
+| 🗄️ MySQL / MariaDB | 📜 JSP & JSTL | 🐋 Docker |
 
 ---
 
@@ -34,11 +37,11 @@ Aplicación web MVC robusta desarrollada con **Spring Boot** e **Hibernate**.
 
 ### 📫 Contacto
 
-Anclado en Chile 🇨🇱 | Disponible para colaborar en proyectos.
-
 * 💼 [LinkedIn](https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/)
 * 📧 [lesly.aldunate@gmail.com](mailto:lesly.aldunate@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true" alt="Estadísticas de GitHub" />
-</p>
+---
+
+### 📊 Mis Estadísticas
+
+![Estadísticas de GitHub de Lesly](https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true)
