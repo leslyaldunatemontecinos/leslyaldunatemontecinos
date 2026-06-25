@@ -1,4 +1,3 @@
-Markdown
 # ¡Hola! Soy Lesly Aldunate 👋
 
 **Ingeniera Civil & Desarrolladora Backend en formación** 🚀
@@ -43,4 +42,5 @@ Aplicación web MVC robusta desarrollada con **Spring Boot** e **Hibernate**.
 ---
 
 ### 📊 Mis Estadísticas
-[![Estadísticas de GitHub de Lesly](https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true)](https://github.com/leslyaldunatemontecinos)
+[![GitHub Clones](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leslyaldunatemontecinos)
+[![Java Repo](https://img.shields.io/badge/Especialidad-Java%20%26%20Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/leslyaldunatemontecinos/Mostrar_Canciones_parte2)
