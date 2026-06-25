@@ -43,5 +43,4 @@ Aplicación web MVC robusta desarrollada con **Spring Boot** e **Hibernate**.
 ---
 
 ### 📊 Mis Estadísticas
-
-![Estadísticas de GitHub de Lesly](https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true)
+[![Estadísticas de GitHub de Lesly](https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true)](https://github.com/leslyaldunatemontecinos)
