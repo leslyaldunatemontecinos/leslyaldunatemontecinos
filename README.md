@@ -1,44 +1,44 @@
-##  ¡Hola! Soy Lesly Aldunate 👋
+# ¡Hola! Soy Lesly Aldunate 👋
 
-**Ingeniera Civil & Desarrolladora de Software en formación** 🚀
+**Ingeniera Civil & Desarrolladora Backend en formación** 🚀
 
-Combino la rigurosidad analítica, la gestión de proyectos y la resolución de problemas complejas de la ingeniería con la pasión por la creación de aplicaciones web robustas. Actualmente me encuentro especializándome en el backend y la arquitectura MVC dentro del ecosistema de Java y Spring Boot.
+Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería civil con la creación de software robusto. Actualmente me especializo en el desarrollo backend y la arquitectura MVC dentro del ecosistema de **Java y Spring Boot**.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-Aquí puedes ver algunas de las tecnologías con las que trabajo diariamente en mis proyectos académicos y personales:
-
-| Backend & Bases de Datos | Frontend & Vistas | Herramientas & Control |
+| Backend & Datos | Frontend | Herramientas & DevOps |
 | :--- | :--- | :--- |
-| ☕ **Java (Java SE / EE)** | 🌐 **HTML5 / CSS3** | 💻 **Spring Tool Suite (STS)** |
-| 🍃 **Spring Boot** | 🎨 **Bootstrap** | 🐙 **Git & GitHub** |
-| 🗄️ **MySQL / MariaDB** | 📜 **JSP & JSTL** | 🐋 **Docker** |
+| ☕ Java (SE/EE) <br> 🍃 Spring Boot <br> 🗄️ MySQL / MariaDB | 🌐 HTML5 / CSS3 <br> 🎨 Bootstrap <br> 📜 JSP & JSTL | 💻 STS / VS Code <br> 🐙 Git & GitHub <br> 🐋 Docker |
 
 ---
 
-### 📈 Proyectos Destacados
+### 📈 Proyecto Destacado
 
-#### 🎵 [Mostrar Canciones y Gestión de Artistas](https://github.com/leslyaldunatemontecinos/Mostrar_Canciones_parte2)
-Aplicación web robusta desarrollada con **Spring Boot** e **Hibernate** que implementa una arquitectura **MVC** completa y bases de datos relacionales.
-* **Características:** Operaciones CRUD completas (Crear, Leer, Actualizar, Eliminar), manejo de formularios dinámicos con validaciones de Spring (`@Valid`), relaciones complejas de base de datos **Uno a Muchos (`@ManyToOne` / `@OneToMany`)** para conectar canciones con sus respectivos artistas, y un diseño modular interactivo utilizando vistas **JSP**.
-
----
-
-### 🌱 En qué estoy trabajando actualmente...
-
-- 🔭 **Proyectos:** Expandiendo aplicaciones backend con Spring Boot y aplicando metodologías de ingeniería para la optimización y escalabilidad del código.
-- 🌱 **Aprendiendo:** Profundizando en APIs RESTful, seguridad con Spring Security y optimización de consultas con Spring Data JPA.
-- 💬 **Hablemos de:** Estructuración de bases de datos relacionales, Java, Spring o cómo la ingeniería civil potencia la lógica de programación.
+#### 🎵 [Gestión de Canciones y Artistas](https://github.com/leslyaldunatemontecinos/Mostrar_Canciones_parte2)
+Aplicación web MVC robusta desarrollada con **Spring Boot** e **Hibernate**.
+* **CRUD Completo:** Gestión dinámica de registros con validaciones del lado del servidor (`@Valid`).
+* **Modelado de Datos:** Implementación de relaciones **Uno a Muchos** (`@ManyToOne`/`@OneToMany`).
+* **Vistas:** Interfaz modular e interactiva utilizando **JSP**.
 
 ---
 
-### 📫 Cómo contactarme
+### 🌱 Enfoque Actual
 
-* 💼 LinkedIn: https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/
-* 📧 Correo Electrónico: lesly.aldunate@gmail.com
+* 🔭 **Desarrollo:** Optimizando aplicaciones backend y aplicando patrones de diseño.
+* 🌱 **Aprendiendo:** APIs RESTful, Spring Security y Spring Data JPA.
+* 💬 **Hablemos de:** Java, Spring, bases de datos y cómo la ingeniería potencia la lógica de software.
+
+---
+
+### 📫 Contacto
+
+Anclado en Chile 🇨🇱 | Disponible para colaborar en proyectos.
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/)
+* 📧 [lesly.aldunate@gmail.com](mailto:lesly.aldunate@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true" alt="Estadísticas de GitHub de Lesly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leslyaldunatemontecinos&show_icons=true&theme=visualstudio&count_private=true" alt="Estadísticas de GitHub" />
 </p>
