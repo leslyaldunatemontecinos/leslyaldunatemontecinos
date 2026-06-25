@@ -12,7 +12,6 @@ Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería c
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 #### **Frontend & Vistas**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +20,11 @@ Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería c
 ![JSP](https://img.shields.io/badge/JSP%20%2F%20JSTL-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### **Herramientas & DevOps**
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite%20(STS)-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Spring%20Tool%20Suite%20(STS)-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
----
 
 ### 📈 Proyecto Destacado
 
