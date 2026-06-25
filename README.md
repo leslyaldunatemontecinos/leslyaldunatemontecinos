@@ -8,11 +8,23 @@ Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería c
 
 ### 🛠️ Tecnologías y Herramientas
 
-| Backend & Datos | Frontend | Herramientas & DevOps |
-| :--- | :--- | :--- |
-| ☕ Java (SE/EE) | 🌐 HTML5 / CSS3 | 💻 STS / VS Code |
-| 🍃 Spring Boot | 🎨 Bootstrap | 🐙 Git & GitHub |
-| 🗄️ MySQL / MariaDB | 📜 JSP & JSTL | 🐋 Docker |
+#### **Backend & Bases de Datos**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+#### **Frontend & Vistas**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP%20%2F%20JSTL-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### **Herramientas & DevOps**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Spring%20Tool%20Suite%20(STS)-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -38,9 +50,3 @@ Aplicación web MVC robusta desarrollada con **Spring Boot** e **Hibernate**.
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/lesly-aldunate-montecinos-18b2405a/)
 * 📧 [lesly.aldunate@gmail.com](mailto:lesly.aldunate@gmail.com)
-
----
-
-### 📊 Mis Estadísticas
-[![GitHub Clones](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leslyaldunatemontecinos)
-[![Java Repo](https://img.shields.io/badge/Especialidad-Java%20%26%20Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/leslyaldunatemontecinos/Mostrar_Canciones_parte2)
