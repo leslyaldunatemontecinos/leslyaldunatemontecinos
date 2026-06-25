@@ -1,8 +1,8 @@
 # ¡Hola! Soy Lesly Aldunate 👋
 
-**Ingeniera Civil & Desarrolladora Backend en formación** 🚀
+**Ingeniera Civil & Desarrolladora Java Fullstack en formación** 🚀
 
-Combino la rigurosidad analítica y la gestión de proyectos de la ingeniería civil con la creación de software robusto. Actualmente me especializo en el desarrollo backend y la arquitectura MVC dentro del ecosistema de **Java y Spring Boot**.
+Combino la rigurosidad analítica, la gestión de proyectos y la resolución de problemas de la ingeniería civil con la capacidad de construir aplicaciones web robustas, seguras y estructuradas.
 
 ---
 
