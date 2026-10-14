@@ -1,6 +1,6 @@
 # ¡Hola! Soy Lesly Aldunate 👋
 
-**Ingeniera Civil & Desarrolladora Java Fullstack en formación** 🚀
+**Ingeniera Civil & Desarrolladora Java Fullstack** 🚀
 
 Combino la rigurosidad analítica, la gestión de proyectos y la resolución de problemas de la ingeniería civil con la capacidad de construir aplicaciones web robustas, seguras y estructuradas.
 
